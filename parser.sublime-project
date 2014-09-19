@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/adrienbocquet/Programmation/NodeJS/parser_bus",
+			"folder_exclude_patterns": ["node_modules"]
+		}
+	]
+}

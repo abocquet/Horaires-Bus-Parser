@@ -1,0 +1,79 @@
+{
+	"LES EYMES RD1090": {
+		"latitude": 45.256353, 
+		"longitude": 5.847217,
+		"sens": 1
+	},
+
+	"COLLEGE GRESIVAUDAN": {
+		"latitude": 45.240083, 
+		"longitude": 5.820711,
+		"sens": 1
+	},
+
+	"LA GARE": {
+		"latitude": 45.228386, 
+		"longitude": 5.804392,
+		"sens": 1
+	},
+
+	"AV. GENERAL DE GAULLE": {
+		"latitude": 45.225175, 
+		"longitude": 5.799103,
+		"sens": 1
+	},
+
+	"LA DETOURBE": {
+		"latitude": 45.223461, 
+		"longitude": 5.793806,
+		"sens": 2
+	},
+
+	"LES JAILLIERES": {
+		"latitude": 45.22985, 
+		"longitude": 5.790792,
+		"sens": 2 
+	},
+
+	"SAINT-MURY": {
+		"latitude": 45.218483, 
+		"longitude": 5.786483,
+		"sens": 2 
+	},
+
+	"LYCEE DU GRESIVAUDAN-BACHAIS": {
+		"latitude": 45.214011, 
+		"longitude": 5.779019,
+		"sens": 2 
+	},
+
+	"FACULTE DE PHARMACIE": {
+		"latitude": 45.211806, 
+		"longitude": 5.774486,
+		"sens": 2 
+	},
+
+	"LA REVIREE": {
+		"latitude": 45.207303, 
+		"longitude": 5.767514,
+		"sens": 2 
+	},
+
+	"AIGUINARDS-HEXAGONE": {
+		"latitude": 45.205119, 
+		"longitude": 5.764725,
+		"sens": 2 
+	},
+
+	"SABLONS": {
+		"latitude": 45.197592, 
+		"longitude": 5.753664,
+		"sens": 2 
+	},
+
+	"HOTEL DE VILLE": {
+		"latitude": 45.18688,
+		"longitude": 5.73624,
+		"sens": 2 
+	}
+}
