@@ -1,0 +1,10 @@
+{
+  "name": "parserbus",
+  "description": "A simple app to get bus time",
+  "main": "web.js",
+  "dependencies": {
+    "express": "~4.10.1",
+    "request": "~2.47.0",
+    "cheerio": "~0.17.0"
+  }
+}
