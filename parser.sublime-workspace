@@ -948,6 +948,7 @@
 	},
 	"file_history":
 	[
+		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/web.js",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/index.html",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/style.css",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/style.min.css",
@@ -1074,8 +1075,7 @@
 		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Resources/views/Organisation/edit.html.twig",
 		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Resources/views/Organisation/delete.html.twig",
 		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/ArianeBundle/Resources/views/Commentaire/delete.html.twig",
-		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Resources/views/Organisation/supprimer.html.twig",
-		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Entity/Projet.php"
+		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Resources/views/Organisation/supprimer.html.twig"
 	],
 	"find":
 	{
@@ -1386,6 +1386,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"web",
+				"web.js"
+			],
 			[
 				"inde",
 				"public/index.html"
@@ -1893,10 +1897,6 @@
 			[
 				"listetac",
 				"src/Kub/CollaborationBundle/Entity/ListeTaches.php"
-			],
-			[
-				"collcrec",
-				"src/Kub/CollaborationBundle/Resources/views/Organisation/create_content.html.twig"
 			]
 		],
 		"width": 0.0
