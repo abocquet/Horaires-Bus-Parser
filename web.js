@@ -62,6 +62,7 @@ var parse = function(sens, arrets, cb, $){
 
 			arrets[name].horaires[sens] = horaires ;	
 			arrets[name].ville = ville ;	
+			arrets[name].name = name ;	
 		}
 	};
 
@@ -72,7 +73,6 @@ var horaires = function(req, res){
 
 	var total = 0 ;
 	var cb = function(i){
-		console.log(i);
 		total -= i ;
 		if(total == 0){ res.json(arrets);}
 	}
@@ -101,5 +101,5 @@ app
 	.get('/horaires', horaires)
 ;
 
-app.listen(process.env.PORT || 5000);
+app.listen(process.env.PORT || 8000);
 

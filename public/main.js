@@ -116,7 +116,6 @@
 
 	var afficher = function(arret, sens){
 
-		console.log(arret);
 		view.arret.textContent = "Arret de " + arret.name + " (" + arret.ville + ") en direction de " + (sens < 2 ? "Grenoble" : "Crolles") ;
 		for (var i = 0, c = arret.horaires[sens].length ; i < c; i++) {
 			var element = document.createElement('li');
