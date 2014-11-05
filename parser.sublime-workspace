@@ -948,11 +948,11 @@
 	},
 	"file_history":
 	[
+		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/main.js",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/web.js",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/index.html",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/style.css",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/style.min.css",
-		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/main.js",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/main.min.js",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/arrets.json",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/app.js",
@@ -1387,6 +1387,10 @@
 		"selected_items":
 		[
 			[
+				"js",
+				"public/main.js"
+			],
+			[
 				"web",
 				"web.js"
 			],
@@ -1401,10 +1405,6 @@
 			[
 				"mai",
 				"public/main.js"
-			],
-			[
-				"js",
-				"arrets.json"
 			],
 			[
 				"arr",
