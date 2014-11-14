@@ -3,6 +3,8 @@ body
 	text-align: center ;
 	color: grey ;
 	font-family: 'helvetica neue', helvetica, sans-serif, arial ;
+
+	font-size: 90% ;
 }
 
 p
@@ -11,9 +13,9 @@ p
 }
 
 input[type="button"] {
-	appearance:normal;
-	-moz-appearance:normal; /* Firefox */
-	-webkit-appearance:normal; /* Safari and Chrome */
+	appearance:none;
+	-moz-appearance:none; /* Firefox */
+	-webkit-appearance:none; /* Safari and Chrome */
 
 	background-color: white ;
 	color: black;
