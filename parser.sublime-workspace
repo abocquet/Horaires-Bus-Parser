@@ -948,10 +948,10 @@
 	},
 	"file_history":
 	[
+		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/index.html",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/style.min.css",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/web.js",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/site.manifest",
-		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/index.html",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/style.css",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/main.js",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/main.min.js",
@@ -1387,6 +1387,10 @@
 		"selected_items":
 		[
 			[
+				"html",
+				"public/index.html"
+			],
+			[
 				"ccs",
 				"public/style.min.css"
 			],
@@ -1493,10 +1497,6 @@
 			[
 				"a",
 				"js/app.js"
-			],
-			[
-				"html",
-				"index.html"
 			],
 			[
 				"ap",
