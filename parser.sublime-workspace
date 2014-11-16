@@ -1387,6 +1387,10 @@
 		"selected_items":
 		[
 			[
+				"inde",
+				"public/index.html"
+			],
+			[
 				"html",
 				"public/index.html"
 			],
@@ -1401,10 +1405,6 @@
 			[
 				"web",
 				"web.js"
-			],
-			[
-				"inde",
-				"public/index.html"
 			],
 			[
 				"js",
