@@ -6,7 +6,7 @@ var express = require('express'),
 var load = function(sens, arrets, cb){
 
 	var date = new Date();
-		date.setMinutes(date.getMinutes() - 20);
+		date.setMinutes(date.getMinutes() - 10);
 
 	var day = date.getDate(),
 		month = date.getMonth() + 1,

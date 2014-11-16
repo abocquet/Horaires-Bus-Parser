@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"font-",
+				"font-size"
+			],
+			[
 				"st",
 				"statusCode"
 			],
@@ -18,10 +22,6 @@
 			[
 				"li",
 				"liste_horaires"
-			],
-			[
-				"font-",
-				"font-weight"
 			],
 			[
 				"se",
@@ -948,11 +948,12 @@
 	},
 	"file_history":
 	[
-		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/main.js",
+		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/style.min.css",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/web.js",
+		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/site.manifest",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/index.html",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/style.css",
-		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/style.min.css",
+		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/main.js",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/main.min.js",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/arrets.json",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/app.js",
@@ -1074,8 +1075,7 @@
 		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Controller/OrganisationController.php",
 		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Resources/views/Organisation/edit.html.twig",
 		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Resources/views/Organisation/delete.html.twig",
-		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/ArianeBundle/Resources/views/Commentaire/delete.html.twig",
-		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Resources/views/Organisation/supprimer.html.twig"
+		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/ArianeBundle/Resources/views/Commentaire/delete.html.twig"
 	],
 	"find":
 	{
@@ -1136,6 +1136,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"normal",
 			"console.log",
 			"sens",
 			"-1",
@@ -1262,8 +1263,7 @@
 			"height",
 			"none",
 			"offset",
-			"clientY",
-			"s["
+			"clientY"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1387,8 +1387,12 @@
 		"selected_items":
 		[
 			[
-				"js",
-				"public/main.js"
+				"ccs",
+				"public/style.min.css"
+			],
+			[
+				"css",
+				"public/style.css"
 			],
 			[
 				"web",
@@ -1397,6 +1401,10 @@
 			[
 				"inde",
 				"public/index.html"
+			],
+			[
+				"js",
+				"public/main.js"
 			],
 			[
 				"cs",
@@ -1477,10 +1485,6 @@
 			[
 				"an",
 				"js/libs/angular.min.js"
-			],
-			[
-				"css",
-				"css/added.css"
 			],
 			[
 				"hm",
@@ -1893,10 +1897,6 @@
 			[
 				"orgnasatio",
 				"src/Kub/CollaborationBundle/Resources/config/routing/organisation.yml"
-			],
-			[
-				"listetac",
-				"src/Kub/CollaborationBundle/Entity/ListeTaches.php"
 			]
 		],
 		"width": 0.0
