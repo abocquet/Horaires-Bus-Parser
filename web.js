@@ -1,7 +1,10 @@
 var express = require('express'),
 	cheerio = require('cheerio'),
-	request = require('request')
+	request = require('request'),
+	time = require('time')
 ;
+
+process.env.TZ = 'Europe/Amsterdam' ;
 
 var load = function(sens, arrets, cb){
 
@@ -27,6 +30,8 @@ var load = function(sens, arrets, cb){
 var parse = function(sens, arrets, cb, $){
 
 	var rows = $('table tr.xRow0, table tr.xRow1');
+	var ref = new time.Date();
+		ref.setTimezone('Europe/Paris');
 
 	for (var i = 0, c = rows.length ; i < c; i++) {
 		var row = $(rows[i]);
@@ -53,7 +58,7 @@ var parse = function(sens, arrets, cb, $){
 					date.setHours(split[0]);
 					date.setMinutes(split[1]);
 
-					if(date.getTime() >= Date.now())
+					if(date.getTime() >= ref.getTime())
 					{
 						horaires.push(content);
 					}

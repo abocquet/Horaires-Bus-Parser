@@ -5,6 +5,7 @@
   "dependencies": {
     "express": "~4.10.1",
     "request": "~2.47.0",
-    "cheerio": "~0.17.0"
+    "cheerio": "~0.17.0",
+    "time": "0.11"
   }
 }
