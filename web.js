@@ -101,7 +101,7 @@ var app = express();
 app
 	.use(express.static(__dirname + '/public'))
 	.get('/', function(req, res){
-		res.sendFile(__dirname + '/public/index.html');
+		res.sendFile(process.cwd() + '/public/index.html');
 	})
 	.get('/horaires', horaires)
 ;
