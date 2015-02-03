@@ -948,9 +948,10 @@
 	},
 	"file_history":
 	[
+		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/web.js",
+		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/package.json",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/index.html",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/style.min.css",
-		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/web.js",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/site.manifest",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/style.css",
 		"/Users/adrienbocquet/Programmation/NodeJS/parser_bus/public/main.js",
@@ -1074,8 +1075,7 @@
 		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/ClasseBundle/Resources/views/Groupe/create.html.twig",
 		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Controller/OrganisationController.php",
 		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Resources/views/Organisation/edit.html.twig",
-		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Resources/views/Organisation/delete.html.twig",
-		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/ArianeBundle/Resources/views/Commentaire/delete.html.twig"
+		"/Users/adrienbocquet/Sites/MAMP/Kub/src/Kub/CollaborationBundle/Resources/views/Organisation/delete.html.twig"
 	],
 	"find":
 	{
@@ -1387,11 +1387,19 @@
 		"selected_items":
 		[
 			[
-				"inde",
+				"html",
 				"public/index.html"
 			],
 			[
-				"html",
+				"web",
+				"web.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"inde",
 				"public/index.html"
 			],
 			[
@@ -1401,10 +1409,6 @@
 			[
 				"css",
 				"public/style.css"
-			],
-			[
-				"web",
-				"web.js"
 			],
 			[
 				"js",
@@ -1476,10 +1480,6 @@
 			],
 			[
 				"packe",
-				"package.json"
-			],
-			[
-				"pa",
 				"package.json"
 			],
 			[
